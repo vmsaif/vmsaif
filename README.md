@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio [https://vmsaif.github.io/](https://vmsaif.github.io/)
 
-- 📫 How to reach me **msaifofficial@gmail.com**
+- 📫 How to reach me: **msaifofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
