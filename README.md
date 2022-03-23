@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 <h3 align="center">A passionate programmer from 🇨🇦 / 🇧🇩 </h3>
 
-- 🔭 I’m currently working on **Health Management Project**
+- 🔭 I’m currently working on a **Health Digitalization Project**
 
 - 👨‍💻 My Portfolio [https://vmsaif.github.io/](https://vmsaif.github.io/)
 
