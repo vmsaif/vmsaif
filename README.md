@@ -7,7 +7,9 @@
 
 - 📫 How to reach me: **msaifofficial@gmail.com**
 
+- 🤵 Connect me on [Linkedin](https://www.linkedin.com/in/vmsaif/)
 <p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
