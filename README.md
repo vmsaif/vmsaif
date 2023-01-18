@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 <h3 align="center">A passionate programmer from 🇨🇦 / 🇧🇩 </h3>
 
-- 🔭 I’m currently interested into the **Metaverse Development**
+- 🔭 I’m currently interested into the **Metaverse Development** as a hobby.
 
 - 👨‍💻 My Portfolio [https://vmsaif.github.io/](https://vmsaif.github.io/)
 
