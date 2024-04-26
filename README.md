@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 <h3 align="center">A passionate programmer from 🇨🇦 / 🇧🇩 </h3>
 
-- 🔭 I’m currently interested into the **Metaverse Development** as a hobby.
+- 🔭 I’m currently focused on integrating Generative AI into systems and applications, emphasizing technologies like LangChain, multiagent systems, LLAMA-3, GPT-4, Hugging Face Transformers, and Retriever-Augmented Generation (RAG) systems
 
 - 👨‍💻 My Portfolio [saifmahmud.dev](https://saifmahmud.dev)
 
