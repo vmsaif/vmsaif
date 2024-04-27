@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahmud</h1>
 <h3 align="center">A passionate programmer from 🇨🇦 / 🇧🇩 </h3>
 
-- 🔭 I’m currently focused on integrating Generative AI 🧠 into systems and applications, emphasizing technologies like LangChain 🔗, multi-agent systems 🤖, LLAMA-3 🦙, GPT-4, Hugging Face Transformers 🤗, and Retriever-Augmented Generation 📚(RAG) systems.
+- 🔭 I’m currently focused on integrating **Generative AI** 🧠 into systems and applications with 
+
+    - **Multi-Agent Systems** 🤖
+    - **LLAMA-3** 🦙
+    - **GPT-4** 🤖
+    - **Hugging Face Transformers** 🤗
+    - **Retriever-Augmented Generation** 📚(RAG) systems
+    - **LangChain** 🔗
+    - **Fine-Tuning** 🛠️
 
 - 👨‍💻 My Portfolio [saifmahmud.dev](https://saifmahmud.dev)
 
