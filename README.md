@@ -4,8 +4,8 @@
 - 🔭 I’m currently focused on integrating **Generative AI** 🧠 into systems and applications with 
 
     - **Multi-Agent Systems** 🤖
-    - **LLAMA-3** 🦙
-    - **GPT-4** 🤖
+    - **LLAMA-4** 🦙
+    - **GPT-5** 🤖
     - **Hugging Face Transformers** 🤗
     - **Retriever-Augmented Generation** 📚(RAG) systems
     - **LangChain** 🔗
