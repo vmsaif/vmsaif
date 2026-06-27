@@ -20,4 +20,3 @@ Currently interested in forward-deployed AI engineering, internal AI agents, bac
 
 - LinkedIn: [linkedin.com/in/vmsaif](https://www.linkedin.com/in/vmsaif/)
 - Email: [msaifofficial@gmail.com](mailto:msaifofficial@gmail.com)
-- Portfolio: [saifmahmud.dev](https://saifmahmud.dev)
